@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is an AI-powered customer support chatbot built using FastAPI, Streamlit, and Groq LLM.
+This project is an AI-powered customer support chatbot built using FastAPI, Streamlit, and Groq LLM. Build during internship.
 
 Features:
 
