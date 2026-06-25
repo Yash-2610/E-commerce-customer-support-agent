@@ -5,4 +5,4 @@ requests
 langchain-groq
 python-dotenv
 deep-translator
-textblob
+streamlit
